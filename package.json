@@ -1,0 +1,20 @@
+{
+  "name": "shipping-assistant-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loshjarson/Shipping-Assistant-BE.git"
+  },
+  "author": "Joshua Larson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loshjarson/Shipping-Assistant-BE/issues"
+  },
+  "homepage": "https://github.com/loshjarson/Shipping-Assistant-BE#readme"
+}
